@@ -2,7 +2,7 @@
 
 A Python-based data analysis tool that fetches, cleans, and visualizes the percentage of internet users by country over time using World Bank data. 
 
-![newplot](https://github.com/lovvmg/global-internet-trends/assets/..../....)
+<img width="1256" height="572" alt="newplot" src="https://github.com/user-attachments/assets/af27671c-62b9-445a-95ed-92ce321e6df5" />
 
 This project transforms a raw, messy dataset into a clean format and generates an interactive line chart. It is designed to be easily customizable so anyone can compare the internet adoption rates of their preferred countries.
 
